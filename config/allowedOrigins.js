@@ -4,5 +4,5 @@ const allowedOrigins = [
     'http://localhost:4200'
 
 ];
-
+hello
 module.exports = allowedOrigins;
